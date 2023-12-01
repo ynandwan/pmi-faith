@@ -1,0 +1,5 @@
+pytorch-lightning
+datasets
+transformers==4.24
+torchmetrics
+git+https://github.com/ddkang/loss_dropper.git

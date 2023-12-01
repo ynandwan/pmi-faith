@@ -1,0 +1,15 @@
+name: faithdial 
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - anaconda::ipython
+  - numpy
+  - python=3.10
+  - pip
+  - pytorch::pytorch
+  - pytorch-cuda=11.6
+
